@@ -74,30 +74,25 @@ Passionate about building scalable applications, solving challenging problems, a
 
 ---
 
-# 📊 GitHub Analytics
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhartenduraj22-max&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartenduraj22-max&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhartenduraj22-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartenduraj22-max&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhartenduraj22-max&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=bhartenduraj22-max&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhartenduraj22-max&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=bhartenduraj22-max&theme=tokyonight&no-frame=true&column=4"/>
 </p>
 
 ---
