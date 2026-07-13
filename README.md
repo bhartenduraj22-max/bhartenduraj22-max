@@ -31,9 +31,9 @@ Passionate about building scalable applications, solving challenging problems, a
 
 # 🚀 Current Goals
 
-✅ 600+ LeetCode Problems
+✅ 300+ LeetCode Problems
 
-✅ Master Spring Boot
+✅ Master React
 
 ✅ MERN Stack Development
 
@@ -41,7 +41,6 @@ Passionate about building scalable applications, solving challenging problems, a
 
 ✅ Cloud (AWS)
 
-✅ Crack Product & Service-Based Companies
 
 ---
 
