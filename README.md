@@ -16,7 +16,7 @@ Passionate Full Stack Developer who loves building scalable applications and sol
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Education Technology), VIT Bhopal
+- 🎓 B.Tech CSE , VIT Bhopal
 - 🔭 Currently building **Search Video Moments Using Natural Language**
 - 🌱 Learning **React, Node.js, Express.js, MongoDB, Spring Boot & Microservices**
 - 💻 Solving **Data Structures & Algorithms in Java**
@@ -28,7 +28,7 @@ Passionate Full Stack Developer who loves building scalable applications and sol
 
 # 🚀 Current Focus
 
-- ✅ 300+ LeetCode Problems
+- ✅ Backend Development
 - ✅ React Development
 - ✅ MERN Stack
 - ✅ Spring Boot & Microservices
