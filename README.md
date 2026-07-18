@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front+End+Developer+Intern+%40+MPTL;React+Developer;Full+Stack+MERN+Developer;Learning+Spring+Boot+%26+Microservices;DSA+%2B+Competitive+Programming"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front+End+Developer+Intern+%40+MTPL;React+Developer;Full+Stack+MERN+Developer;Learning+Spring+Boot+%26+Microservices;DSA+%2B+Competitive+Programming"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science, **VIT Bhopal**
-- 💼 Front End Developer Intern @ **MPTL** (May–Jul 2026)
+- 💼 Front End Developer Intern @ **MTPL** (May–Jul 2026)
 - 🧑‍💻 Built multiple full-stack projects, including **MedBridge** and **NearbyNow**
 - 🌱 Currently learning **Spring Boot & Microservices**
 - 🏆 Pre-Finalist at **GRABHACK** — Top 98 of 4,500+ teams (36-hour hackathon)
